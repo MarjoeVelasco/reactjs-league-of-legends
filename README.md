@@ -10,7 +10,6 @@ A ReactJS-based comprehensive platform that enables users to immerse themselves 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Features](#features)
 - [Technologies Used](#technologies-used)
 
 ## Getting Started
@@ -49,7 +48,7 @@ To run this project locally, ensure that you have the following software install
    ```bash
    npm start
 
-### Technologies Used
+## Technologies Used
 - ReactJS
 - React Router
 - Axios
