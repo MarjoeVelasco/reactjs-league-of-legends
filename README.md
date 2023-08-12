@@ -48,6 +48,11 @@ To run this project locally, ensure that you have the following software install
    ```bash
    npm start
 
+## Demo
+
+This can be accessed at [https://nexus-league-of-legends.netlify.app/](https://nexus-league-of-legends.netlify.app/)
+
+
 ## Technologies Used
 - ReactJS
 - React Router
